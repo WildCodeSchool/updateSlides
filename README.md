@@ -1,4 +1,4 @@
-# Apply new wild colors
+# Apply new wild color
 
 Given the presentation id this script use Google slides api to change shapes background color
 
